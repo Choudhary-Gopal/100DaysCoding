@@ -12,9 +12,9 @@ public static void main(String args[]){
 	
 if(a>=75)
 	System.out.println("distinct subject number is : "+a);
-else if(b>=75)
+if(b>=75)
 	System.out.println("distinct subject number is : "+b);
-else 
+if(c>=75) 
 	System.out.println("distinct subject number is : "+c);
   }
 }
