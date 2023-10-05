@@ -11,9 +11,10 @@ boolean b = true;
 for(int i=2; i<=n; i++)
 {
 	if(n%i==0)
+	{
 		b = false;
 		break;
-	 
+	}
 }
 
 	if(b==true)
