@@ -25,6 +25,6 @@ class CheckStrongNumber {
 		if (sum == number)
 			System.out.println(number + " : is storng number");
 		else
-			System.out.println(number	 + " : is not strong number");
+			System.out.println(number + " : is not strong number");
 	}
 }
